@@ -1,0 +1,46 @@
+
+body {
+    font-family: monospace;
+}
+
+.contenedor {
+    width: auto;
+    margin: 0 auto;
+}
+
+.menu {
+    width: auto;
+    padding: 10px;
+    border-bottom: 1px solid gray;
+    grid-row: initial;;
+    
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.nav {
+    display: inline-block;
+    width: auto;
+    text-align: right;
+}
+
+
+.nav ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.input-menu {
+    border-radius: 30px;
+}
+
+ul{
+   list-style:none;
+}
